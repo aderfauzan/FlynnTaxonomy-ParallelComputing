@@ -1,4 +1,4 @@
-# Flynn Taxonomy - Parallel Computing (Matrix Based)
+# Flynn Taxonomy - Parallel Computing
 
 ## Models Implemented:
 - SISD (Sequential Matrix Processing)
